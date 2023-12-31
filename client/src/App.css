@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  outline: none;
+  box-shadow: none;
+}
+
+body {
+  direction: rtl;
+  font-family: Vazirmatn, Nunito, sans-serif;
+  font-weight: 200;
+}
+input {
+  outline: none;
+  box-shadow: none;
+}
+
+input:focus {
+  outline: none;
+  box-shadow: none;
+}
+select:focus {
+  outline: none;
+}
+
+ul {
+  list-style: none;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+
+.searchInput:focus {
+  outline: none;
+}
+
+/* offers home styles */

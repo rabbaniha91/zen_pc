@@ -1,0 +1,5 @@
+.card-shopping, .login-menu, .user-menu {
+  background: linear-gradient(145deg, #171212, #1b1515);
+  box-shadow: 12px 12px 24px #0a0808, -12px -12px 24px #282020;
+  border-radius: 12px;
+}

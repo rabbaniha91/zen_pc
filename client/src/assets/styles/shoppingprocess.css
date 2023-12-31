@@ -1,0 +1,9 @@
+.shopping-process {
+  border-radius: 12px;
+  background: linear-gradient(145deg, #252020, #2c2727);
+  box-shadow: 1px 1px 6px #141212, -1px -1px 6px #3e3636;
+}
+
+.active{
+    color: #1db954;
+}
